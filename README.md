@@ -23,12 +23,15 @@
 3. Лекции, лабы, практики и т.д. 
 4. И это всё должно быть форматировано
 
-```python
+```python v 3.11.7
+pip install numpy
 pip install python-dotenv
 pip install sentence-transformers
-pip install hf_xet
 pip install hdbscan
-python -m pip install --upgrade pip setuptools wheel
+pip install pdfplumber
+pip install umap-learn
+pip install openai
+pip install hf_xet
 ```
 
 [полезная ссылка](https://github.com/pridees/agentic-design-patterns-book-rus)
